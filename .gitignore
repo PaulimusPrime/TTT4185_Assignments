@@ -1,2 +1,5 @@
 venv/
 .DS_Store
+Test.pkl
+Train.pkl
+Validation.pkl
